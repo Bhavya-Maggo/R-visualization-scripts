@@ -2,6 +2,7 @@
 This repository provides R scripts for visualizing differential gene expression results using two commonly used plots in transcriptomics analysis:
 
 **Volcano Plot** – highlights significantly upregulated and downregulated genes.
+<br>
 **Heatmap** – visualizes expression patterns of the most significant genes across samples.
 
 These scripts are useful for RNA-seq differential expression analysis, microarray data analysis, and general gene expression studies.
