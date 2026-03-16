@@ -164,7 +164,7 @@ Resolution: **600 dpi**
 # Example Figures
 **Volcano Plot**
 
-![Volcano Plot](images/volcano_plot.png)
+![volcano_plot](images/volcano_plot.png)
 
 **Heatmap**
 
