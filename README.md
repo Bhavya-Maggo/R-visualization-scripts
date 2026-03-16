@@ -1,5 +1,5 @@
 # RNA-seq Gene Expression Visualization in R
-This repository provides R scripts for visualizing **differential gene expression results** using two commonly used plots in transcriptomics analysis:
+This repository provides R scripts for visualizing differential gene expression results using two commonly used plots in transcriptomics analysis:
 
 **Volcano Plot** – highlights significantly upregulated and downregulated genes.
 **Heatmap** – visualizes expression patterns of the most significant genes across samples.
@@ -10,7 +10,7 @@ These scripts are useful for RNA-seq differential expression analysis, microarra
 
 # Requirements
 
-The scripts require **R (≥ 4.0)** and the following packages:
+The scripts require R (≥ 4.0) and the following packages:
 
 ```
 ggplot2
