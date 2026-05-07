@@ -13,7 +13,7 @@ df <- df[order(df$FDR), ][1:50, ]
 df <- df[, c( "genes", "Ba1", "Ba2", "Ba3", "B1", "B2", "B3")]
 
 # Set gene names as row names
-rownames(df) <- df$genes
+rownames(df) <- make.unique(df$Gene)
 
 # Remove gene column
 df$genes <- NULL
